@@ -1,7 +1,20 @@
-# 🌊 Marine Debris Classification (CNN)
+# 🌊 Marine Debris Detection Project
+A Convolutional Neural Network (CNN) model to detect and classify marine debris from images, contributing to sustainability and environmental conservation.
 
-This project is a Convolutional Neural Network (CNN) model built with TensorFlow and Keras to classify images as containing **Debris** or **Non_Debris**. The goal is to create a simple, effective tool for automatically identifying marine pollution from images.
+#🧩 Problem Statement
+Marine pollution has become one of the biggest threats to ocean life. Large amounts of plastic, metal, and other waste float on the ocean surface or settle underwater. Detecting and classifying this debris can assist in cleanup and recycling efforts, helping protect marine ecosystems.
 
+#🎯 Project Goal
+To develop a Convolutional Neural Network (CNN) model that can detect and classify marine debris from images — contributing to sustainability and environmental conservation.
+
+#🌱 Why It Supports Sustainability
+This project aligns with our Sustainable Development Goals. By identifying waste in marine environments, it helps:
+
+Track pollution sources
+
+Assist in cleanup operations
+
+Promote recycling and awareness
  
 
 ---
@@ -9,7 +22,7 @@ This project is a Convolutional Neural Network (CNN) model built with TensorFlow
 ## 🎯 Project Overview
 
 The model is a **binary classifier** that was trained on the 
-**[Marine Debris Images Dataset]:(https://www.kaggle.com/datasets/zienabesam/marine-debris-images-dataset) from Kaggle. **
+[Marine Debris Images Dataset]:(https://www.kaggle.com/datasets/zienabesam/marine-debris-images-dataset) from Kaggle. 
 It learns to distinguish between photos containing various forms of beach/ocean waste and photos of the natural environment (sand, water, etc.).
 
 ### Technologies Used
@@ -40,8 +53,8 @@ The final model accuracy is yet to be calculated.
 
 | Loss Plot | Accuracy Plot |
 | :---: | :---: |
-| [Loss vs Val_Loss]<img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/0157fb92-d7f8-4bd1-85d6-efea5d19bb4e" />
-| [Accuracy vs Val_Accuracy]<img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/43e63d79-d6bd-43b9-8294-88c72597dd4f" />
+| <img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/0157fb92-d7f8-4bd1-85d6-efea5d19bb4e" />
+| <img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/43e63d79-d6bd-43b9-8294-88c72597dd4f" />
  |
 
 ---
