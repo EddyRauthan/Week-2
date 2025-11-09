@@ -8,7 +8,9 @@ This project is a Convolutional Neural Network (CNN) model built with TensorFlow
 
 ## 🎯 Project Overview
 
-The model is a **binary classifier** that was trained on the [Marine Debris Images Dataset](https://www.kaggle.com/datasets/zienabesam/marine-debris-images-dataset) from Kaggle. It learns to distinguish between photos containing various forms of beach/ocean waste and photos of the natural environment (sand, water, etc.).
+The model is a **binary classifier** that was trained on the 
+[Marine Debris Images Dataset]:(https://www.kaggle.com/datasets/zienabesam/marine-debris-images-dataset) from Kaggle. 
+It learns to distinguish between photos containing various forms of beach/ocean waste and photos of the natural environment (sand, water, etc.).
 
 ### Technologies Used
 * **Python**
@@ -39,7 +41,9 @@ The final model achieved a validation accuracy of approximately **[Enter your be
 
 | Loss Plot | Accuracy Plot |
 | :---: | :---: |
-| ![Loss vs Val_Loss](path/to/your/loss_graph.png) | ![Accuracy vs Val_Accuracy](path/to/your/accuracy_graph.png) |
+| ![Loss vs Val_Loss]<img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/0157fb92-d7f8-4bd1-85d6-efea5d19bb4e" />
+| ![Accuracy vs Val_Accuracy]<img width="547" height="461" alt="image" src="https://github.com/user-attachments/assets/43e63d79-d6bd-43b9-8294-88c72597dd4f" />
+ |
 
 ---
 
